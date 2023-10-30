@@ -1,0 +1,180 @@
+iteration step:  1
+Policy Mean Absolute Difference: 10.203741496598639
+Policy Max Absolute Difference: 449.9
+iteration step:  2
+Policy Mean Absolute Difference: 12.136926497274157
+Policy Max Absolute Difference: 369.4592
+iteration step:  3
+Policy Mean Absolute Difference: 10.844519473273786
+Policy Max Absolute Difference: 303.00913555245825
+iteration step:  4
+Policy Mean Absolute Difference: 9.563964063831966
+Policy Max Absolute Difference: 248.82607186708574
+iteration step:  5
+Policy Mean Absolute Difference: 8.406627117605511
+Policy Max Absolute Difference: 204.13052693842184
+iteration step:  6
+Policy Mean Absolute Difference: 7.385022739733907
+Policy Max Absolute Difference: 167.35217052559156
+iteration step:  7
+Policy Mean Absolute Difference: 7.785062664055385
+Policy Max Absolute Difference: 137.15110288783103
+iteration step:  8
+Policy Mean Absolute Difference: 8.068885690403317
+Policy Max Absolute Difference: 112.42899275484794
+iteration step:  9
+Policy Mean Absolute Difference: 9.17287424251488
+Policy Max Absolute Difference: 92.26931839989717
+iteration step:  10
+Policy Mean Absolute Difference: 7.2980533015209055
+Policy Max Absolute Difference: 75.64130615882286
+iteration step:  11
+Policy Mean Absolute Difference: 6.776499912475033
+Policy Max Absolute Difference: 61.9723995145936
+iteration step:  12
+Policy Mean Absolute Difference: 6.096040820181194
+Policy Max Absolute Difference: 50.557013710246224
+iteration step:  13
+Policy Mean Absolute Difference: 5.844046992929574
+Policy Max Absolute Difference: 41.5097644012163
+iteration step:  14
+Policy Mean Absolute Difference: 5.876902016569419
+Policy Max Absolute Difference: 33.98440613424768
+iteration step:  15
+Policy Mean Absolute Difference: 4.988739368931377
+Policy Max Absolute Difference: 27.756523598084232
+iteration step:  16
+Policy Mean Absolute Difference: 4.270761089087096
+Policy Max Absolute Difference: 21.981145835259856
+iteration step:  17
+Policy Mean Absolute Difference: 3.511569533400573
+Policy Max Absolute Difference: 17.639928452043332
+iteration step:  18
+Policy Mean Absolute Difference: 2.640380636521316
+Policy Max Absolute Difference: 14.941071569488528
+iteration step:  19
+Policy Mean Absolute Difference: 1.9781678740270383
+Policy Max Absolute Difference: 12.712827941874034
+iteration step:  20
+Policy Mean Absolute Difference: 1.4285194495954168
+Policy Max Absolute Difference: 10.794986005443835
+iteration step:  21
+Policy Mean Absolute Difference: 1.0619945738810834
+Policy Max Absolute Difference: 9.068291310490086
+iteration step:  22
+Policy Mean Absolute Difference: 0.7981677391898715
+Policy Max Absolute Difference: 7.663770653227707
+iteration step:  23
+Policy Mean Absolute Difference: 0.5839326196550834
+Policy Max Absolute Difference: 6.5427182659418435
+iteration step:  24
+Policy Mean Absolute Difference: 0.4263871915507286
+Policy Max Absolute Difference: 5.686330702460609
+iteration step:  25
+Policy Mean Absolute Difference: 0.2975596929055039
+Policy Max Absolute Difference: 5.067509740449766
+iteration step:  26
+Policy Mean Absolute Difference: 0.1877277009873598
+Policy Max Absolute Difference: 3.1602163375380616
+iteration step:  27
+Policy Mean Absolute Difference: 0.11793991567404567
+Policy Max Absolute Difference: 2.811074421820111
+iteration step:  28
+Policy Mean Absolute Difference: 0.06671883305513358
+Policy Max Absolute Difference: 1.303815222280388
+iteration step:  29
+Policy Mean Absolute Difference: 0.03853192114953486
+Policy Max Absolute Difference: 1.1657712226361898
+iteration step:  30
+Policy Mean Absolute Difference: 0.019591399986868943
+Policy Max Absolute Difference: 0.42934896338361384
+iteration step:  31
+Policy Mean Absolute Difference: 0.011012426964080656
+Policy Max Absolute Difference: 0.38702366141273536
+iteration step:  32
+Policy Mean Absolute Difference: 0.005144143748927638
+Policy Max Absolute Difference: 0.12198334776214459
+iteration step:  33
+Policy Mean Absolute Difference: 0.0028922428290945996
+Policy Max Absolute Difference: 0.1106714954630359
+iteration step:  34
+Policy Mean Absolute Difference: 0.00127117538351798
+Policy Max Absolute Difference: 0.03136440663239526
+iteration step:  35
+Policy Mean Absolute Difference: 0.0007117058311743845
+Policy Max Absolute Difference: 0.028487309585592868
+iteration step:  36
+Policy Mean Absolute Difference: 0.00030021714708771107
+Policy Max Absolute Difference: 0.007497492703141262
+iteration step:  37
+Policy Mean Absolute Difference: 0.00016593745813610537
+Policy Max Absolute Difference: 0.0067908723132852344
+iteration step:  38
+Policy Mean Absolute Difference: 6.818205249132928e-05
+Policy Max Absolute Difference: 0.0016958924433279066
+iteration step:  39
+Policy Mean Absolute Difference: 3.700517275956894e-05
+Policy Max Absolute Difference: 0.0015284485856490448
+iteration step:  40
+Policy Mean Absolute Difference: 1.496391900712486e-05
+Policy Max Absolute Difference: 0.0003675319549287792
+iteration step:  41
+Policy Mean Absolute Difference: 7.957304787912075e-06
+Policy Max Absolute Difference: 0.000329253417737263
+iteration step:  42
+Policy Mean Absolute Difference: 3.188497438358985e-06
+Policy Max Absolute Difference: 7.701007476157429e-05
+iteration step:  43
+Policy Mean Absolute Difference: 1.660843070437425e-06
+Policy Max Absolute Difference: 6.854763344144033e-05
+iteration step:  44
+Policy Mean Absolute Difference: 6.62425647577755e-07
+Policy Max Absolute Difference: 1.57064242429783e-05
+iteration step:  45
+Policy Mean Absolute Difference: 3.3825075754393485e-07
+Policy Max Absolute Difference: 1.3890479783285059e-05
+iteration step:  46
+Policy Mean Absolute Difference: 1.346800793156984e-07
+Policy Max Absolute Difference: 3.186960801926375e-06
+iteration step:  47
+Policy Mean Absolute Difference: 6.750055127092045e-08
+Policy Max Absolute Difference: 2.754184786013525e-06
+iteration step:  48
+Policy Mean Absolute Difference: 2.688097539571781e-08
+Policy Max Absolute Difference: 6.715216418484715e-07
+iteration step:  49
+Policy Mean Absolute Difference: 1.3242615675237026e-08
+Policy Max Absolute Difference: 5.364836930255024e-07
+iteration step:  50
+Policy Mean Absolute Difference: 5.280838043497206e-09
+Policy Max Absolute Difference: 1.3816828392521074e-07
+iteration step:  51
+Policy Mean Absolute Difference: 2.5609043774466045e-09
+Policy Max Absolute Difference: 1.0297964792016501e-07
+iteration step:  52
+Policy Mean Absolute Difference: 1.0233675494321558e-09
+Policy Max Absolute Difference: 2.7857362638883387e-08
+iteration step:  53
+Policy Mean Absolute Difference: 4.892176097332966e-10
+Policy Max Absolute Difference: 1.9527004013752958e-08
+iteration step:  54
+Policy Mean Absolute Difference: 1.9599177609650872e-10
+Policy Max Absolute Difference: 5.519890322602805e-09
+iteration step:  55
+Policy Mean Absolute Difference: 9.248603696946424e-11
+Policy Max Absolute Difference: 3.6648106771508537e-09
+iteration step:  56
+Policy Mean Absolute Difference: 3.715409839199366e-11
+Policy Max Absolute Difference: 1.0775842440580163e-09
+iteration step:  57
+Policy Mean Absolute Difference: 1.7329430407671122e-11
+Policy Max Absolute Difference: 6.818403619490709e-10
+iteration step:  58
+Policy Mean Absolute Difference: 6.981173009293974e-12
+Policy Max Absolute Difference: 2.0767387809428328e-10
+iteration step:  59
+Policy Mean Absolute Difference: 3.222891341558389e-12
+Policy Max Absolute Difference: 1.2592771270192316e-10
+iteration step:  60
+Policy Mean Absolute Difference: 1.3025952198961246e-12
+Policy Max Absolute Difference: 3.956479588396178e-11
